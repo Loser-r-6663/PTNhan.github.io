@@ -13,7 +13,7 @@
 ---
 
 ## 2. Technical Skills
-* **Programming Languages:** C++, C
+* **Programming Languages:** C++
 * **Development Tools & Version Control:** Git, GitHub, Visual Studio Code
 
 ---
